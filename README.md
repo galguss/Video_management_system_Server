@@ -89,7 +89,7 @@ The server provides the following API endpoints to interact with the Video Manag
 
 - `GET /` - Retrieves a list of all videos.
 - `POST /Add` - Creates a new video.
-- `PUT /Edit` - Updates an existing video.
+- `PATCH /Edit` - Updates an existing video.
 - `DELETE /Delete` - Deletes a video.
 
 Please refer to the API documentation or the source code for detailed information on how to use these endpoints.
